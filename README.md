@@ -1,0 +1,1 @@
+A practical implementation of Shor's quantum algorithm to solve both the integer factorization and discrete logarithm problems using Pennylane.
